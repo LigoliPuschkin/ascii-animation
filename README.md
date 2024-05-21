@@ -1,4 +1,4 @@
-this: **imagetoascii.py** programm converts Images to an asciianimation
+this: **imagetoascii.py** programm converts a **folder containing Images** to an asciianimation
 
 this: **animation.py** programm is used to display or run the asciianimation
   by: https://github.com/mdq3/terminal-animation
@@ -17,5 +17,3 @@ it workes by:
         it doas so by asii() and scale()
     then it adds all Images to a animation file.py calles ohmy.py
         it doas so by calling ohmy()
-
-for mor information look at the code, i commented so that you can easyly modify and understand what each line doas.
